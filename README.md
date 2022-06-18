@@ -1,2 +1,2 @@
-# hello-world
-This is my Hello World application for Informatics-109
+Informatics 109
+My name is Justin Akridge and I am computer science student. I love coding and developing software.
